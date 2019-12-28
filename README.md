@@ -13,7 +13,7 @@
 ## Requirement
 以下の環境で動作確認済み．    
 
-* Apple mac OS Catalina Version 10.15.1
+* Apple mac OS Catalina Version 10.15.2
 * Python 3.7.5
 * scipy 1.4.1
 * numpy 1.18.0
