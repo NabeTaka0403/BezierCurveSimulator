@@ -10,7 +10,12 @@
 ## Description
 マウスのドラッグで制御点を移動させる度にBezier曲線を再計算・再描画する．
 
+## Demo
+
+![Demo](Demo.gif)
+
 ## Requirement
+
 以下の環境で動作確認済み．    
 
 * Apple mac OS Catalina Version 10.15.2
